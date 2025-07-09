@@ -1,4 +1,4 @@
-class TSizes{
+class Sizes{
   // padding and margin sizes
   static const double xs = 4.0;
   static const double sm = 8.0;
@@ -65,5 +65,7 @@ class TSizes{
 
   // grid view spacing
   static const double gridViewSpacing = 16.0;
+
+  static var iconSize;
 
 }
