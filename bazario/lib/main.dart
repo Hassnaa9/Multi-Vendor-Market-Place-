@@ -21,3 +21,4 @@ class BazarioApp extends StatelessWidget {
     );
   }
 }
+
