@@ -1,0 +1,1 @@
+ C:\\Users\\El-Wattaneya\\AndroidStudioProjects\\Multi\ Vendor\ Market\ Place\\Multi-Vendor-Market-Place-\\multi_vendor_market_place\\.dart_tool\\flutter_build\\ac79df426d27bb61d3b0c91f94ef2dc0\\native_assets.json: 

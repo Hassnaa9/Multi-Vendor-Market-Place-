@@ -1,21 +1,23 @@
+import 'package:bazario/features/splash&welcome/splash_screen.dart';
 import 'package:flutter/material.dart';
 
 void main() {
-  runApp(const MyApp());
+  runApp(const BazarioApp());
 }
 
-class MyApp extends StatelessWidget {
-  const MyApp({super.key});
+class BazarioApp extends StatelessWidget {
+  const BazarioApp({super.key});
 
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Demo',
+      debugShowCheckedModeBanner: false,
+      title: 'Bazario',
       theme: ThemeData(
-        colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
-        useMaterial3: true,
+        primarySwatch: Colors.blue,
+        fontFamily: 'Roboto',
       ),
+      home: const SplashScreen(),
     );
   }
 }
-

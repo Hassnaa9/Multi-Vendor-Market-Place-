@@ -1,0 +1,2 @@
+C:/Users/El-Wattaneya/AndroidStudioProjects/Multi Vendor Market Place/Multi-Vendor-Market-Place-/bazario/android/app/.cxx/Debug/553o5f4l/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/El-Wattaneya/AndroidStudioProjects/Multi Vendor Market Place/Multi-Vendor-Market-Place-/bazario/android/app/.cxx/Debug/553o5f4l/x86_64/CMakeFiles/rebuild_cache.dir
